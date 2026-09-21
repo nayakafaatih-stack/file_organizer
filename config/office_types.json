@@ -1,0 +1,23 @@
+{
+    "Word": [
+        ".doc",
+        ".docx",
+        ".odt"
+    ],
+    "Excel": [
+        ".xls",
+        ".xlsx",
+        ".csv",
+        ".ods"
+    ],
+    "PowerPoint": [
+        ".ppt",
+        ".pptx",
+        ".odp"
+    ],
+
+    "PDF": [
+        ".pdf"
+    ]
+    
+}
