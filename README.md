@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 FilePilot
 
 FilePilot adalah aplikasi web berbasis Flask yang digunakan untuk mengorganisir file secara otomatis berdasarkan jenis dan format file.
@@ -83,3 +84,7 @@ FILE_PILOT/
 ├── README.md
 └── requirements.txt
 ```
+=======
+# file_organizer
+enak murah mantap
+>>>>>>> 2da4f3b684ac7e6ecffa4290161f7a9871bc01f6
